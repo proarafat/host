@@ -1,2 +1,2 @@
-# host
-This is my free Hosting-Domin Company!
+# Arafat-Host
+## This is my free Hosting-Domin Company!
