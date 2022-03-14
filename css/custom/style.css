@@ -4788,3 +4788,8 @@ header .topInfo li.clientAreaLi span,
     -webkit-transition: .4s;
     transition: .4s;
 }
+
+.video{
+    display: block;
+margin: 0 auto;
+}
