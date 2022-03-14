@@ -1,7 +1,7 @@
 # cPanel Demo
     Cpanel Username: b18_31289536
     Cpanel Password: Arafat13495@
-    Your URL: http://demi-pro-arafat.byethost18.com or http://www.demi-pro-arafat.byethost18.com**
+    Your URL: http://demi-pro-arafat.byethost18.com or http://www.demi-pro-arafat.byethost18.com
     FTP Server : ftpupload.net
     FTP Login : b18_31289536
     FTP Password : Arafat13495@
