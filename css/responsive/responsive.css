@@ -1,0 +1,1401 @@
+/*		medium Layout: 992px.
+		Inherits styles from: Default Layout.
+-----------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8
+px      68    160    252    344    436    528    620    712    */
+
+@media only screen and (min-width: 1201px) and (max-width: 50000px) {
+
+    .navbar-header {
+        display: none;
+    }
+
+
+    header nav#navbar {
+        padding: 0;
+        margin-right: -30px;
+        display: block;
+    }
+
+
+
+}
+
+/*		medium Layout: 992px.
+		Inherits styles from: Default Layout.
+-----------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8
+px      68    160    252    344    436    528    620    712    */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+
+    /* ===============================================
+        Preview-page Start
+     ================================================= */
+    .preview-home-pages-area .col-md-6:nth-child(odd) .preview-single-pages {
+        float: none;
+        padding-right: 0;
+    }
+    .preview-home-pages-area .col-md-6:nth-child(even) .preview-single-pages {
+        float: none;
+        padding-left: 0;
+    }
+    a.preview-single-pages-content {
+        width: auto;
+    }
+    /* ===============================================
+        Preview-page End
+     ================================================= */
+    .secPdng {
+        padding: 70px 0
+    }
+    .homeImg,
+    .homeImgTable {
+        display: block;
+        height: auto
+    }
+    .homeImg {
+        padding: 109.5px 40px 109px 0;
+    }
+    header nav#navbar ul > li > a {
+        padding: 0 7px;
+    }
+    .homeContent {
+        padding: 80px 0;
+    }
+    .comingContent .h1 {
+        font-size: 55px;
+    }
+    .comingContent span br {
+        display: none;
+    }
+    .ipad-landscape .subsForm input {
+        width: 240px;
+    }
+    .ipad-landscape .subsForm input[type="submit"] {
+        font-size: 13px;
+        width: 110px;
+    }
+
+
+    .homeContent span.h2 {
+        padding: 0;
+    }
+    .homeContent p br {
+        display: none;
+    }
+    .homeBtn {
+        margin-top: 30px;
+    }
+    .ctaCol {
+        padding: 0 30px
+    }
+    .domainTop > input[type="search"] {
+        width: 75%;
+    }
+    .domainTop > input[type="submit"] {
+        width: 24%;
+    }
+    .ctaTwo .ctaTxtTwo {
+        margin: 0 0 15px;
+        display: block;
+    }
+    header a.cart .count {
+        margin-left: 10px
+    }
+
+
+    .navbar-header {
+        display: none;
+    }
+
+
+    header nav#navbar {
+        padding: 0;
+        margin-right: -30px;
+        display: block;
+    }
+    header nav#navbar {
+        margin-right: -15px
+    }
+    .v2 .domainTop > input[type="search"] {
+        width: 270px
+    }
+    .v2 .domainTop > input[type="submit"] {
+        width: 150px
+    }
+    .aboutTxt br {
+        display: none;
+    }
+    .aboutArea .aboutContent {
+        height: 475px;
+    }
+    .aboutTxt > p {
+        line-height: 24px;
+        margin-bottom: 15px;
+    }
+    .aServiceTxt p br {
+        display: none;
+    }
+    .contactForm > div {
+        margin-right: 13px
+    }
+    #googleMap {
+        height: 450px
+    }
+    .contactTxt br {
+        display: none;
+    }
+    .stepContent > p br {
+        display: none;
+    }
+    .domainCta .h2 {
+        margin-right: 0;
+        display: block;
+        margin-bottom: 15px
+    }
+    .hTstArea .row {
+        margin: 0 40px
+    }
+    .tstSlider .owl-nav div {
+        left: -30px
+    }
+    .tstSlider .owl-nav div.owl-next {
+        right: -30px
+    }
+    header nav#navbar ul > li.dropdown-megamenu .mega-menu {
+        right: -65px
+    }
+
+    .postExcerpt br {
+        display: none;
+    }
+    .singlePost .postTitle.h4 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .supportForm {
+        border-bottom: 1px solid #e8e8e8;
+        margin-bottom: 35px;
+        padding-bottom: 35px;
+    }
+
+
+    /*	end1000*/
+}
+
+
+
+/*		tablet Layout: 768px.
+		Inherits styles from: Default Layout.
+-----------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8
+px      68    160    252    344    436    528    620    712    */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+
+    /* ===============================================
+        Preview-page Start
+     ================================================= */
+    .preview-hero-area .preview-hero-area-content h1 {
+        width: auto;
+        height: auto;
+    }
+    .facility-area .single-facility h2 {
+        font-size: 18px;
+    }
+    .preview-home-pages-area .col-md-6:nth-child(odd) .preview-single-pages {
+        float: none;
+        padding-right: 0;
+    }
+    .preview-home-pages-area .col-md-6:nth-child(even) .preview-single-pages {
+        float: none;
+        padding-left: 0;
+    }
+    a.preview-single-pages-content {
+        width: auto;
+    }
+    .preview-single-pages h2 {
+        font-size: 24px;
+    }
+    .preview-get-area {
+        height: 777px;
+    }
+    /* ===============================================
+        Preview-page End
+     ================================================= */
+    .secPdng {
+        padding: 50px 0
+    }
+    .secPdngB {
+        padding-bottom: 50px
+    }
+    .secPdngT {
+        padding-top: 50px
+    }
+    .homeImgTable {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .homeContent {
+        padding: 80px 0;
+        position: relative;
+        z-index: 1
+    }
+    .homeContent:before {
+        position: absolute;
+        content: '';
+        width: 100%;
+        height: 100%;
+        background: #288feb;
+        z-index: -1;
+        top: 0;
+        left: 0;
+        opacity: .5
+    }
+    .v2 .homeContent::before {
+        display: none;
+    }
+    .domainTxt {
+        width: 30%;
+    }
+    form.domainForm {
+        width: 70%;
+        padding-right: 0
+    }
+    .domainTop > input[type="search"] {
+        width: 65%
+    }
+    .domainTop > input[type="submit"] {
+        width: 34%;
+        font-size: 13px
+    }
+    .serviceContent p br {
+        display: none
+    }
+    .serviceContent .h3 {
+        font-size: 19px;
+        margin-bottom: 15px
+    }
+    .serviceContent,
+    .serviceContent p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .singleService .serviceIcon {
+        height: 50px;
+        margin-bottom: 20px
+    }
+    .ctaImgOne {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .ctaTxt {
+        height: auto;
+    }
+    .pricingArea {
+        padding: 50px 0 30px
+    }
+    .ctaRow {
+        margin: 0
+    }
+    .ctaCell {
+        text-align: center;
+    }
+    .ctaCol .h2 {
+        margin-bottom: 15px;
+    }
+    .ctaTxt .Btn {
+        margin-top: 25px;
+    }
+    .ctaCol {
+        padding: 0 15px;
+    }
+    .ctaTxt {
+        margin-bottom: 50px;
+    }
+    .ctaColBtm {
+        padding: 0 15px;
+    }
+    .ctaImgTwo {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .ctaImgTwo img {
+        max-width: 100%;
+    }
+    .ctaRight.ctaTxt {
+        padding-bottom: 50px;
+        border-bottom: 1px solid #eaeaea;
+        margin-bottom: 0;
+    }
+    .col-md-4:nth-child(1) .singleClient,
+    .col-md-4:nth-child(2) .singleClient,
+    .col-md-4:nth-child(3) .singleClient {
+        margin-top: 0
+    }
+    .col-md-4 .singleClient {
+        margin-top: 40px
+    }
+    .ctaTwo .ctaTxtTwo {
+        margin-right: 0
+    }
+    .ctaTwo .ctaBtn {
+        margin-top: 30px
+    }
+    .footerLinkIcon li a {
+        height: 25px;
+        line-height: 24px;
+        width: 25px;
+    }
+    .footerTxt {
+        margin-bottom: 10px;
+    }
+    footer .col-md-3:first-child {
+        padding-right: 0;
+    }
+    .footerLogo {
+        margin-bottom: 25px;
+    }
+    .copyrightTxt {
+        padding: 40px 0 20px
+    }
+    .contactBtn.Btn {
+        min-width: 0;
+        font-size: 12px;
+        padding: 0 15px;
+    }
+    .v2 .domainArea::before {
+        background: #288feb none repeat scroll 0 0;
+        content: "";
+        height: 50%;
+        left: 0;
+        position: absolute;
+        top: 50%;
+        width: 100%;
+        z-index: -1;
+    }
+    .v2 .domainContent {
+        margin: 120px 0 0
+    }
+    .aboutArea .aboutContent br {
+        display: none;
+    }
+    .aboutTxt > p {
+        line-height: 24px;
+        margin-bottom: 15px;
+    }
+    .aboutContent h2 {
+        margin-bottom: 25px;
+    }
+    .aboutArea .aboutContent {
+        display: block;
+        height: auto;
+        padding: 60px 0;
+    }
+    .sectionTitle .h2 {
+        line-height: 30px;
+    }
+    .singleAboutService,
+    .singleTeam,
+    .col-md-4:nth-child(3) .singleTeam {
+        margin-top: 40px;
+    }
+    .col-md-3:nth-child(1) .singleAboutService,
+    .col-md-3:nth-child(2) .singleAboutService {
+        margin-top: 0;
+    }
+    .contactTxt br {
+        display: none;
+    }
+    .domainSearchArea .domainSearchForm input.serach {
+        width: 72%
+    }
+    .domainSearchArea .domainSearchForm input.submit {
+        width: 27%
+    }
+    .aDomainLeft.clearfix {
+        min-width: 275px
+    }
+    .domainBtn .Btn.btnCart,
+    .btnBuy.Btn {
+        line-height: 43px;
+        min-width: 130px;
+    }
+    .domainCta .h2 {
+        margin-right: 0;
+        margin-bottom: 15px
+    }
+    .stepNo {
+        height: 70px;
+        line-height: 60px;
+        width: 70px;
+    }
+    .stepContent p br {
+        display: none;
+    }
+    .stepContent {
+        padding-left: 10px
+    }
+    .stepArea .col-md-4 {
+        padding: 0 5px
+    }
+    .stepContent .h4 {
+        margin-bottom: 5px
+    }
+    .stepContent > p {
+        font-size: 13px
+    }
+    .hosting .pricingArea {
+        padding: 0
+    }
+    .hosting .col-md-3:nth-child(2) .singlePrice {
+        border-right-color: #e8e8e8;
+    }
+    .hTstArea .row {
+        margin: 0 40px
+    }
+    .tstSlider .owl-nav div {
+        left: -30px
+    }
+    .tstSlider .owl-nav div.owl-next {
+        right: -30px
+    }
+    .cartCol {
+        text-align: right;
+        z-index: 1;
+    }
+    header a.cart {
+        display: inline-block
+    }
+
+    .cartTotal,
+    .checkout .cartTotal {
+        margin-left: 0;
+        margin-top: 60px
+    }
+    .col-md-4:not(:nth-child(1)):not(:nth-child(2)) .singlePost {
+        margin-top: 30px
+    }
+    .postExcerpt br {
+        display: none;
+    }
+    .supportForm {
+        border-bottom: 1px solid #e8e8e8;
+        margin-bottom: 35px;
+        padding-bottom: 35px;
+    }
+    .sicleImg {
+        height: 320px;
+        margin-right: 0;
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .errRow {
+        position: relative
+    }
+    .errCol {
+        position: absolute;
+        right: 0;
+        top: 0
+    }
+    .contactForm > div {
+        width: 100%;
+    }
+    .contactForm .contactMsg {
+        width: 100%;
+    }
+
+    /*	end800*/
+    /*	==================================== */
+    /* Home3 domainArea Start */
+    /*	==================================== */
+    .homeArea.home3Area {
+        height: 600px !important;
+    }
+    .homeContent:before {
+        background: transparent;
+    }
+    .homeArea.home3Area .homeContent p br {
+        display: none;
+    }
+    /*	==================================== */
+    /* Home3 domainArea End */
+    /*	==================================== */
+    /*	==================================== */
+    /* Home4 Page Start */
+    /*	==================================== */
+    .home4 .homeContent span.h2 br {
+        display: none;
+    }
+    .home4 .domainCheck span {
+        margin-right: 11px;
+    }
+    /*	==================================== */
+    /* Home4 Page End */
+    /*	==================================== */
+}
+
+
+/*		mobile Layout: 320px.
+		Inherits styles from: Default Layout.
+-----------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8
+px      68    160    252    344    436    528    620    712    */
+
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+
+
+    /* ========================================= 
+        Preview-area Start 
+    ============================================ */
+    .preview-hero-area .preview-hero-area-content h1 {
+        width: auto;
+        height: auto;
+        font-size: 36px;
+        line-height: 45px;
+    }
+    .preview-hero-area .preview-hero-area-content p {
+        width: auto;
+        height: auto;
+    }
+    .preview-hero-area .preview-hero-area-content a {
+        margin-bottom: 15px;
+    }
+    .preview-hero-area .preview-hero-area-content a.purchase-btn {
+        width: 280px;
+    }
+    .facility-area {
+        padding-bottom: 40px;
+    }
+    .facility-area .single-facility {
+        margin-bottom: 65px;
+    }
+    .section-title h1 {
+        font-size: 36px;
+        line-height: 40px;
+    }
+
+    .preview-area {
+        padding: 75px 0;
+        background: #fff;
+        position: relative;
+    }
+    .preview-home-pages-area .col-md-6:nth-child(odd) .preview-single-pages {
+        float: none;
+        padding-right: 0;
+    }
+    a.preview-single-pages-content {
+        width: auto;
+    }
+    .preview-home-pages-area .col-md-6:nth-child(even) .preview-single-pages {
+        float: none;
+        padding-left: 0;
+    }
+    .preview-get-area {
+        height: 645px;
+    }
+    .preview-get-area .section-title h1 {
+        width: auto;
+        height: auto;
+    }
+    .preview-get-area .section-title p {
+        width: auto;
+        height: auto;
+    }
+    /* ========================================= 
+        Preview-area End 
+    ============================================ */
+    .container {
+        width: 320px;
+        position: relative
+    }
+
+    header .headerBottomArea {
+        padding: 20px 0
+    }
+    nav#navbar {
+        top: 58px
+    }
+    header .topInfo li {
+        display: none;
+    }
+    header .topInfo li.clientAreaLi {
+        width: auto;
+        display: block
+    }
+    header .topInfo li.clientAreaLi span {
+        margin-left: 0;
+    }
+    header .lang {
+        left: auto;
+        top: 50px
+    }
+    .clientLogin > form {
+        top: 100px;
+        left: auto
+    }
+    .navbar-header {
+        position: absolute;
+        right: 75px;
+        top: 9px;
+        z-index: 9;
+    }
+    .navbar-toggle {
+        padding: 5px;
+    }
+    .menuCol {
+        position: absolute;
+        right: 0;
+        top: -7px;
+    }
+    .homeContent {
+        padding: 60px 0;
+        text-align: center
+    }
+    nav#navbar {
+        top: 52px
+    }
+    .homeContent p br {
+        display: none;
+    }
+    .homeContent,
+    .homeContent p {
+        font-size: 15px;
+        line-height: 20px
+    }
+    .homeContent span.h2 {
+        font-size: 23px;
+        line-height: 30px
+    }
+    .homeImgTable {
+        display: none !important;
+    }
+    .homeBtn {
+        margin-top: 25px
+    }
+    .domainTxt {
+        text-align: center;
+        width: 100%;
+        margin-bottom: 20px;
+        padding-top: 0 !important
+    }
+    form.domainForm {
+        padding: 0;
+        width: 100%;
+        text-align: center
+    }
+    .domainTop > input[type="search"] {
+        width: 100%;
+        margin-bottom: 10px;
+        height: 40px;
+        text-align: center
+    }
+    .domainTop > input[type="submit"] {
+        width: auto;
+        padding: 0 20px;
+        float: none;
+        line-height: 40px;
+        height: 40px;
+        font-size: 12px
+    }
+    .domainArea {
+        padding: 40px 0
+    }
+    .secPdng {
+        padding: 40px 0
+    }
+    .secPdngT {
+        padding-top: 40px
+    }
+    .secPdngB {
+        padding-bottom: 40px
+    }
+    .sectionTitle .h2 br {
+        display: none;
+    }
+    .sectionTitle .h2 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .sectionTitle {
+        margin-bottom: 40px
+    }
+    .singleService .serviceIcon {
+        height: 50px;
+        margin-bottom: 20px
+    }
+    .serviceContent .h3 {
+        margin-bottom: 10px
+    }
+    .singleService {
+        margin-bottom: 40px
+    }
+    .col-md-4:last-child .singleService {
+        margin-bottom: 0
+    }
+    .price {
+        margin: -20px 0;
+        padding: 0 20px;
+    }
+    .singlePrice {
+        border-color: #e8e8e8;
+    }
+
+    .ctaCol {
+        padding: 0 15px;
+    }
+    .ctaRight.ctaTxt {
+        height: auto !important;
+        margin-top: 40px;
+    }
+    .ctaCol .h2 {
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .ctaTxt .Btn {
+        margin-top: 20px;
+        min-width: 130px;
+    }
+    .ctaRow {
+        margin-bottom: 0;
+    }
+    .ctaColBtm {
+        padding-left: 15px;
+    }
+    .ctaLeft.ctaTxt {
+        height: auto !important;
+        margin: 40px 0;
+    }
+    .ctaTxt br {
+        display: none;
+    }
+    .singleClient {
+        height: 65px;
+        margin-top: 50px
+    }
+    .col-xs-6:nth-child(1) .singleClient,
+    .col-xs-6:nth-child(2) .singleClient {
+        margin-top: 0
+    }
+    .ctaTwo .ctaTxtTwo {
+        font-size: 22px;
+        line-height: 27px;
+        margin-bottom: 15px;
+        margin-right: 0;
+    }
+    .ctaTwo {
+        padding: 40px 0;
+    }
+    footer .col-md-3 > div {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .footerLogo {
+        margin-bottom: 20px;
+    }
+    .footerTxt {
+        margin-bottom: 15px;
+    }
+    .widget .h4,
+    .contactInfo .h4 {
+        margin-bottom: 15px;
+    }
+    .footerLink > li a {
+        line-height: 27px;
+    }
+    footer .col-md-3:last-child > div {
+        margin-bottom: 0;
+    }
+    .contactBtn.Btn {
+        font-size: 10px;
+        margin-top: 15px;
+        min-width: 0;
+    }
+    .copyrightTxt {
+        padding: 25px 0;
+        text-align: center;
+    }
+    .v2 .domainArea::before {
+        display: none;
+    }
+    .v2 .domainContent {
+        margin: 0px 0 0
+    }
+
+    .v2 .domainArea {
+        text-align: center;
+    }
+    .v2 .domainTop > input[type="search"] {
+        float: none;
+    }
+    .v2 .domainTxt {
+        margin-bottom: 20px;
+    }
+    .v2 .domainContent .h3 {
+        margin-top: 40px;
+    }
+    .v2 .domainBtn {
+        background: #288feb none repeat scroll 0 0;
+    }
+    .v2 .domainArea .container::before,
+    .v2 .domainArea .container::after {
+        display: none;
+    }
+    .v2 .langTxt {
+        display: none;
+    }
+    .v2 .domainTop > input[type="search"] {
+        width: 280px
+    }
+    .v2 .domainTop > input[type="submit"] {
+        width: 150px
+    }
+    .v2 .domainContent > p br {
+        display: none;
+    }
+    .aboutImg {
+        display: none;
+    }
+    .aboutTxt p br {
+        display: none;
+    }
+    .aboutTxt,
+    .aboutT p {
+        line-height: 24px;
+        margin-bottom: 10px;
+        text-align: center
+    }
+    .aboutContent h2 {
+        font-size: 24px;
+        text-align: center
+    }
+    .aboutArea .aboutContent {
+        height: auto;
+        padding: 40px 0
+    }
+    .singleAboutService {
+        margin-top: 30px
+    }
+    .col-md-3:first-child .singleAboutService {
+        margin-top: 0
+    }
+
+    .teamImg {
+        height: 60px;
+        width: 60px;
+    }
+    .teamContent {
+        padding-left: 80px;
+    }
+    .singleTeam,
+    .col-md-4:nth-child(2) .singleTeam,
+    .col-md-4:nth-child(3) .singleTeam {
+        margin-top: 30px;
+    }
+    .inputWrep {
+        margin: 0;
+        border: none;
+        border-radius: 0;
+        text-align: center
+    }
+    .inputWrep > input[type="email"] {
+        width: 100%;
+        margin-bottom: 10px;
+        border: 2px solid #288feb;
+        border-radius: 25px;
+        display: block;
+        text-align: center;
+        padding: 0
+    }
+    .inputWrep > input[type="submit"] {
+        width: 150px;
+        float: none;
+        display: inline-block;
+    }
+    .pageTitle {
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    .aServiceIcon {
+        display: inline-block;
+        float: none;
+        text-align: center;
+    }
+    .aServiceIcon > img {
+        display: inline-block;
+    }
+    .aServiceContent {
+        display: block;
+        margin-top: 20px;
+        padding: 0;
+        text-align: center;
+    }
+    .singleAboutService {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .col-md-3:last-child .singleAboutService {
+        margin-bottom: 0;
+    }
+    .boardMenu {
+        height: auto;
+        margin-bottom: 35px
+    }
+    .boardMenu ul li {
+        display: block;
+        float: none;
+    }
+    .boardMenu ul li a {
+        display: block;
+        text-align: center
+    }
+    .boardTitle .h4 {
+        margin-bottom: 0
+    }
+    .accountInput .h5 {
+        margin-top: 30px
+    }
+
+    ul.regDomains .domainName {
+        display: block;
+        line-height: 25px;
+    }
+    .editDomain {
+        display: block;
+        float: none;
+        padding-left: 20px;
+    }
+    .regDomains > li {
+        border-left: 5px solid #288feb;
+        padding: 20px 0;
+    }
+    .editDomain > li {
+        line-height: 25px;
+    }
+    .regDomains {
+        margin-top: 25px;
+    }
+    .contactTxt {
+        text-align: center
+    }
+    .contactForm > div {
+        width: 100%;
+        margin-right: 0
+    }
+    #googleMap {
+        height: 250px
+    }
+    .contactInfoCell {
+        margin-left: 0;
+        padding-left: 15px;
+        border-left: none
+    }
+    .singleContactInfo {
+        margin-top: 10px
+    }
+    .domainSearchArea .domainSearchForm {
+        margin: 0 0 50px;
+        text-align: center
+    }
+    .domainSearchArea .domainSearchForm input.serach {
+        width: 100%;
+        margin-bottom: 15px
+    }
+    .domainSearchArea .domainSearchForm input.submit {
+        width: 170px;
+        display: inline-block;
+        float: none
+    }
+    .aDomainLeft.clearfix {
+        min-width: 100%;
+        text-align: center;
+    }
+    .aDomainLeft .checkIcon {
+        float: none;
+        vertical-align: top;
+    }
+    .domainBtn.clearfix {
+        float: none;
+        margin-right: 0;
+        text-align: center;
+    }
+    .domainBtn .Btn.btnCart {
+        margin: 20px 0 5px;
+    }
+    li.singleDomain {
+        padding: 20px 0 20px 20px;
+        text-align: left;
+    }
+    .h4.singleDomainName {
+        display: block;
+        margin-bottom: 5px;
+        width: 100%;
+    }
+    .singleDomainRight {
+        float: none;
+    }
+    h4.price {
+        padding: 0;
+    }
+    .domainCta .h2 {
+        font-size: 20px;
+        line-height: 24px;
+        margin-bottom: 20px;
+        margin-right: 0;
+    }
+    .stepContent {
+        height: auto;
+        margin-bottom: 30px;
+    }
+    .stepContent br {
+        display: none;
+    }
+    .stepNo {
+        border-width: 5px;
+        height: 70px;
+        line-height: 60px;
+        width: 70px;
+    }
+
+    .faqArea .col-md-12 .singleFaq,
+    .singleFaq:nth-child(2n) {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 30px
+    }
+    .singleFaq:first-child {
+        margin-top: 0 !important
+    }
+    .singleDomain a.cartBtn {
+        float: left
+    }
+    h4.price {
+        margin-right: 0;
+        margin-left: 10px;
+        line-height: 40px
+    }
+
+    .tstSlider .owl-nav div {
+        bottom: 25px;
+        left: auto;
+        right: 83px;
+        top: auto;
+    }
+    .tstSlider .owl-nav div.owl-next {
+        right: 50px;
+    }
+
+
+    .cartTable > li.cartHead div {
+        padding-left: 10px;
+        width: 33.33%;
+    }
+    .cartTable .price {
+        margin: 0;
+    }
+    .cartTable li div.product {
+        border-bottom: 1px solid #eff2f4;
+        padding-left: 25px;
+        text-align: left;
+        width: 100%;
+    }
+    .cartTable li > div {
+        border: medium none;
+        padding-left: 0;
+        text-align: center;
+        width: 33.33%;
+    }
+    .cartTable li div.product span.closeIcon {
+        margin-right: 60px;
+    }
+    .cartTable li div.product div::before {
+        left: 13px;
+    }
+    .cartTable > li {
+        border: 2px solid #288feb;
+        margin-bottom: 20px;
+    }
+    .duration > span {
+        text-align: left
+    }
+    .cartOpt {
+        left: 8px;
+        box-shadow: #0 0 8px rgba(0, 0, 0, 0.1)
+    }
+    .cartOpt > li {
+        text-align: left;
+        padding-left: 20px
+    }
+    .couponForm > input {
+        width: 100%;
+        border: 1px solid #288feb;
+        margin-bottom: 10px;
+        text-align: center;
+        padding: 0
+    }
+    .couponForm {
+        text-align: center
+    }
+    .couponForm > button {
+        margin: 0
+    }
+    .cartTotal {
+        margin-left: 0
+    }
+    .totalBtn {
+        width: 100%;
+        text-align: center;
+        padding: 0;
+        line-height: 50px;
+        height: 50px
+    }
+    .totalBtn i {
+        line-height: 50px
+    }
+    .totalBtn:hover i {
+        transform: inherit
+    }
+    .checkout .cartTotal {
+        margin-top: 30px
+    }
+
+    .postExcerpt br {
+        display: none;
+    }
+    .singlePost .postContent {
+        padding: 20px 12px;
+    }
+    .singlePost .postTitle.h4 {
+        font-size: 18px
+    }
+    .singlePost .postDate {
+        margin-bottom: 15px
+    }
+    .col-md-4:not(:nth-child(1)) .singlePost {
+        margin-top: 30px
+    }
+    .pagination {
+        margin-top: 50px
+    }
+    .pagination a {
+        overflow: hidden;
+    }
+    article.singleBlog {
+        padding: 0
+    }
+
+    .postTitle.h3 {
+        font-size: 21px;
+        margin-bottom: 5px;
+        margin-top: 30px;
+    }
+    .postMeta {
+        margin-bottom: 14px;
+    }
+    .postText,
+    .postText p {
+        line-height: 24px;
+        margin-bottom: 15px;
+    }
+    .postText {
+        margin-bottom: 30px;
+    }
+    .h4.areaTitle {
+        margin-top: 45px;
+    }
+    .commentLeft {
+        display: block;
+        float: none;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .commentImg {
+        display: inline-block;
+    }
+    .commentRight {
+        padding: 0;
+        text-align: center;
+    }
+    .commentInput {
+        margin-top: 45px;
+        padding-right: 0;
+    }
+    .commentInput > input:first-child {
+        margin-right: 0;
+    }
+    .commentInput > input {
+        display: block;
+        float: none;
+        width: 100%;
+    }
+    .supportForm {
+        border-bottom: 1px solid #e8e8e8;
+        margin-bottom: 35px;
+        padding-bottom: 35px;
+    }
+
+    .serachForm > input[type="search"] {
+        font-size: 12px;
+        margin-bottom: 40px;
+    }
+    .supportInput > input:first-child,
+    .supportInput .supportSelect {
+        margin-right: 0;
+    }
+    .supportInput > input,
+    .supportInput > .supportSelect {
+        padding-left: 15px;
+        width: 100%;
+    }
+    .supportSelect select {
+        padding-left: 15px;
+    }
+    .supportInput .supportSelect {
+        padding-left: 0;
+    }
+    .supportInput > textarea {
+        height: 100px;
+        padding-left: 15px;
+    }
+    .fileInput {
+        float: none;
+        font-size: 12px;
+        padding-left: 17px;
+        text-align: center;
+        width: 100%;
+    }
+    .fileInput::before {
+        left: 15px;
+    }
+    .captcha {
+        margin-left: 0;
+        width: 100%;
+    }
+    .supportInput > input[type="submit"] {
+        width: 100%;
+    }
+
+    .comingContent {
+        padding-top: 0;
+        text-align: center;
+    }
+    .comingContent .h1 {
+        font-size: 40px;
+        line-height: 35px;
+        margin: 10px 0 20px;
+    }
+    .comingContent span {
+        font-size: 14px;
+    }
+    .comingContent span br {
+        display: none;
+    }
+    .subsForm > input,
+    .eSearchForm > input {
+        float: none;
+        margin: 0 0 20px;
+        width: 100%;
+    }
+    .eSearchForm > input[type="submit"],
+    .subsForm > input[type="submit"] {
+        display: inline-block;
+        float: none;
+        margin: 0 0 20px;
+    }
+    .subsForm,
+    .eSearchForm {
+        text-align: center;
+    }
+    .sicleImg {
+        height: auto;
+        margin-right: 0;
+    }
+
+    .h1.errorTitle {
+        font-size: 40px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .subsForm,
+    .eSearchForm {
+        margin-top: 35px;
+    }
+    .eSearchImg {
+        display: none;
+    }
+    .errorContent > a {
+        display: block;
+        margin-top: 0;
+        text-align: center;
+    }
+    .contactForm .contactSubmit + div {
+        display: block;
+        margin-left: 0
+    }
+
+    /*	end320*/
+    /*	==================================== */
+    /* Home3 Page Start */
+    /*	==================================== */
+    .homeArea.home3Area {
+        height: 500px !important;
+    }
+
+    .home3 .domainArea {
+        margin-bottom: 345px;
+    }
+
+    /*	==================================== */
+    /* Home3 Page End */
+    /*	==================================== */
+    /*	==================================== */
+    /* Home4 Page Start */
+    /*	==================================== */
+    .home4 .homeContent {
+        text-align: left;
+    }
+
+    /*	==================================== */
+    /* Home4 Page End */
+    /*	==================================== */
+}
+
+
+
+/*		Wide Mobile Layout: 480px.
+		Inherits styles from: Default Layout.
+-----------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8
+px      68    160    252    344    436    528    620    712    */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+    /* ===============================================
+        Preview-page Start
+     ================================================= */
+    .preview-get-area {
+        height: 685px;
+    }
+    /* ===============================================
+        Preview-page End
+     ================================================= */
+    .container {
+        width: 450px;
+    }
+    .cartOpt {
+        left: 85px
+    }
+    .home3 .homeArea.home3Area {
+        height: 400px !important;
+    }
+}
