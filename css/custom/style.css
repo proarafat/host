@@ -247,7 +247,7 @@ img {
 }
 
 .pageIndicate a:hover {
-    color: #233141;
+    color: #ffffff;
 }
 
 
@@ -378,7 +378,7 @@ img {
     /* Style for "Best Respo" */
     width: 758px;
     height: 120px;
-    color: #313339;
+    color: #000000;
     font-family: 'proxima_nova_rgregular';
     font-size: 48px;
     font-weight: 700;
@@ -407,7 +407,7 @@ img {
     width: 203px;
     height: 56px;
     border-radius: 3px;
-    background-color: #5d6367;
+    background-color: #000000;
     color: #ffffff;
     font-family: 'proxima_nova_rgregular';
     font-size: 15px;
@@ -441,7 +441,7 @@ img {
 
 .facility-area .single-facility h2 {
     /* Style for "4 Homepage" */
-    color: #313339;
+    color: #ffffff;
     font-family: 'proxima_nova_rgregular';
     font-size: 28px;
     font-weight: 700;
@@ -449,7 +449,7 @@ img {
 
 .facility-area .single-facility p {
     /* Style for "Spark come" */
-    color: #313339;
+    color: #ffffff;
     font-family: 'proxima_nova_rgregular';
     font-size: 18px;
     font-weight: 400;
@@ -505,7 +505,7 @@ img {
 
 .section-title h1 {
     /* Style for "Check 4 Ho" */
-    color: #313339;
+    color: #ffffff;
     font-family: 'proxima_nova_rgregular';
     font-size: 42px;
     font-weight: 700;
@@ -782,11 +782,11 @@ header .topInfo li.clientAreaLi span {
 }
 
 header .headerTopArea {
-    border-bottom: 1px solid #ebebeb
+    border-bottom: 1px solid #ffffff
 }
 
 .v2 header .headerTopArea {
-    background: #288feb
+    background: #2bc7e2
 }
 
 header .logo {
@@ -828,7 +828,7 @@ header nav#navbar ul > li {
 }
 
 header nav#navbar ul > li > a {
-    color: #9aadbf;
+    color: #ffffff;
     display: inline-block;
     font-size: 13px;
     line-height: 37px;
@@ -966,11 +966,11 @@ header nav#navbar ul.sub-menu > li.subPar > a:after {
     }
 
     #nav > li ul.sub-menu li:first-child {
-        border-top: 2px solid #288feb;
+        border-top: 2px solid #2bc7e2;
     }
 
     #nav > li ul.sub-menu li:last-child {
-        border-bottom: 2px solid #288feb;
+        border-bottom: 2px solid #2bc7e2;
     }
 
     #nav > li:hover ul.sub-menu li {
@@ -1033,11 +1033,11 @@ header nav#navbar ul.sub-menu > li.subPar > a:after {
 
     header nav#navbar ul > li.current-menu-item > a,
     header nav#navbar ul > li > a:hover {
-        color: #233141
+        color: #f8f8f8
     }
 
     #nav > li ul.sub-menu li:last-child {
-        border-bottom: 2px solid #288feb !important
+        border-bottom: 2px solid #2bc7e2 !important
     }
 }
 
@@ -2848,6 +2848,7 @@ span.position {
     line-height: 45px;
     padding-left: 30px;
     width: 68%;
+    
 }
 
 .inputWrep > input[type="submit"] {
@@ -4633,7 +4634,7 @@ h6,
 .menuDiscount > span,
 .v2 .homeContent span.h2,
 .singleTst .clientName {
-    color: #233141
+    color: #ffffff
 }
 
 
