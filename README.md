@@ -1,6 +1,6 @@
 # Arafat-Host
-## This is my free Hosting-Domin Company!
-https://devproarafat.me/host/
+## This is my free Hosting-Domin Company!               <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/proarafat/host?label=File%20Size">
+https://devproarafat.me/host/               
 
 # cPanel Demo
     Cpanel Username: b18_31289536
