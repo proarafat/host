@@ -2,7 +2,7 @@
 
 # Arafat-Host
 
-## This is my free Hosting-Domin Company!               <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/proarafat/host?label=File%20Size">
+## This is my free Hosting-Domin Company!               
 
 
 
@@ -25,6 +25,10 @@
 
 https://user-images.githubusercontent.com/96917595/158244756-b65f839e-54c2-467f-b49a-a06f69d3d5e5.mp4
 
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/proarafat/host?label=File%20Size">  <a class="github-button" href="https://github.com/proarafat/host/generate" data-color-scheme="no-preference: dark_high_contrast; light: light; dark: dark;" data-size="large" aria-label="Use this template proarafat/host on GitHub">Use this template</a>   <a class="github-button" href="https://github.com/proarafat/host/fork" data-color-scheme="no-preference: dark_high_contrast; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Fork proarafat/host on GitHub">Fork</a>
 
 # Contributors
 ![Your Repository's Stats](https://contrib.rocks/image?repo=proarafat/host)
+
+
+
